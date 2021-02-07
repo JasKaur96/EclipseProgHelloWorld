@@ -1,0 +1,2 @@
+com/gradlepractice/SimpleGradle.java
+ com.gradlepractice.SimpleGradle
